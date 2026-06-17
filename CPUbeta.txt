@@ -106,3 +106,27 @@ cache_alignment	: 64
 address sizes	: 48 bits physical, 48 bits virtual
 power management: ts ttp tm hwpstate eff_freq_ro
 
+Ignacio Martinez 12:16
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::bee:70c0:3686:9f39%10
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Conexi¢n de  rea local:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : cpe.telecentro.net.ar
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:485:bd::4
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:485:bd:c33c:d2d0:22e6:8b8c
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:485:bd:f854:568f:9f0f:4ea9
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::4b8a:e648:eb54:6749%3
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.6
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::a3e:5dff:fe46:2ecc%3
+                                       192.168.0.1
