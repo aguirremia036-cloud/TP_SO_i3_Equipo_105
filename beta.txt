@@ -1,0 +1,85 @@
+
+Configuracion IP de Windows
+
+
+Adaptador de Ethernet Ethernet 7:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec fico para la conexion. . : 
+
+Adaptador de Ethernet Ethernet 8:
+
+   Sufijo DNS espec fico para la conexion. . : 
+   Vinculo: direccion IPv6 local. . . : fe80::a738:75b1:2c1b:5506%24
+   Direccion IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Mascara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inalambrica Conexion de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especifico para la conexion. . : 
+
+Adaptador de LAN inalambrica Conexion de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especifico para la conexion. . : 
+
+Adaptador de LAN inalambrica Wi-Fi 2:
+
+   Sufijo DNS especifico para la conexion. . : 
+   Direccion IPv6 . . . . . . . . . . : 2803:9800:90ae:8437:e0bc:742:233f:c354
+   Direccion IPv6 temporal. . . . . . : 2803:9800:90ae:8437:c4e3:8ef9:656e:93db
+   Vinculo: direcci n IPv6 local. . . : fe80::e12c:2918:28d7:7d2%7
+   Direccion IPv4. . . . . . . . . . . . . . : 192.168.100.9
+   Mascara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%7
+                                       192.168.100.1
+Mia Aguirre 12:12
+Ignacio Martinez 12:27
+
+Configuraci n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec fico para la conexi n. . : 
+   V nculo: direcci n IPv6 local. . . : fe80::bee:70c0:3686:9f39%10
+   Direcci n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Conexi n de  rea local:
+
+   Sufijo DNS espec fico para la conexi n. . : cpe.telecentro.net.ar
+   Direcci n IPv6 . . . . . . . . . . : 2800:810:485:bd::4
+   Direcci n IPv6 . . . . . . . . . . : 2800:810:485:bd:c33c:d2d0:22e6:8b8c
+   Direcci n IPv6 temporal. . . . . . : 2800:810:485:bd:f854:568f:9f0f:4ea9
+   V nculo: direcci n IPv6 local. . . : fe80::4b8a:e648:eb54:6749%3
+   Direcci n IPv4. . . . . . . . . . . . . . : 192.168.0.6
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::a3e:5dff:fe46:2ecc%3
+                                       192.168.0.1
+Matias Fleita 12:30
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::427b:c8dc:823e:982b%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:429:a522:6bc0:c11:b3e1:5b8a
+   Dirección IPv6 . . . . . . . . . . : 2800:810:429:a522:6db0:f88d:2a66:de64
+   Dirección IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:6464:7c78:73af:8604
+   Dirección IPv6 temporal. . . . . . : 2800:810:429:a522:d9e8:f5dc:67c6:1621
+   Dirección IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:d9e8:f5dc:67c6:1621
+   Vínculo: dirección IPv6 local. . . : fe80::dbb9:8e1f:4e7e:e20d%2
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.207
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::daa7:56ff:fee3:470c%2
+                                       192.168.0.1
