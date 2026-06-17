@@ -1,0 +1,38 @@
+
+Configuracion IP de Windows
+
+
+Adaptador de Ethernet Ethernet 7:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec fico para la conexion. . : 
+
+Adaptador de Ethernet Ethernet 8:
+
+   Sufijo DNS espec fico para la conexion. . : 
+   Vinculo: direccion IPv6 local. . . : fe80::a738:75b1:2c1b:5506%24
+   Direccion IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Mascara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inalambrica Conexion de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especifico para la conexion. . : 
+
+Adaptador de LAN inalambrica Conexion de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especifico para la conexion. . : 
+
+Adaptador de LAN inalambrica Wi-Fi 2:
+
+   Sufijo DNS especifico para la conexion. . : 
+   Direccion IPv6 . . . . . . . . . . : 2803:9800:90ae:8437:e0bc:742:233f:c354
+   Direccion IPv6 temporal. . . . . . : 2803:9800:90ae:8437:c4e3:8ef9:656e:93db
+   Vinculo: direcci n IPv6 local. . . : fe80::e12c:2918:28d7:7d2%7
+   Direccion IPv4. . . . . . . . . . . . . . : 192.168.100.9
+   Mascara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%7
+                                       192.168.100.1
+Mia Aguirre 12:12
