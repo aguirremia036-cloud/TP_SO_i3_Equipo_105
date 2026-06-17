@@ -38,25 +38,48 @@ Adaptador de LAN inalambrica Wi-Fi 2:
 Mia Aguirre 12:12
 Ignacio Martinez 12:27
 
-Configuraci IP de Windows
+Configuraci n IP de Windows
 
 
 Adaptador de Ethernet Ethernet:
 
-   Sufijo DNS especico para la conexi. . : 
-   Vculo: direcci IPv6 local. . . : fe80::bee:70c0:3686:9f39%10
-   Direcci IPv4. . . . . . . . . . . . . . : 192.168.56.1
-   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec fico para la conexi n. . : 
+   V nculo: direcci n IPv6 local. . . : fe80::bee:70c0:3686:9f39%10
+   Direcci n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 
 
-Adaptador de Ethernet Conexi de 爎ea local:
+Adaptador de Ethernet Conexi n de  rea local:
 
-   Sufijo DNS especico para la conexi. . : cpe.telecentro.net.ar
-   Direcci IPv6 . . . . . . . . . . : 2800:810:485:bd::4
-   Direcci IPv6 . . . . . . . . . . : 2800:810:485:bd:c33c:d2d0:22e6:8b8c
-   Direcci IPv6 temporal. . . . . . : 2800:810:485:bd:f854:568f:9f0f:4ea9
-   Vculo: direcci IPv6 local. . . : fe80::4b8a:e648:eb54:6749%3
-   Direcci IPv4. . . . . . . . . . . . . . : 192.168.0.6
-   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec fico para la conexi n. . : cpe.telecentro.net.ar
+   Direcci n IPv6 . . . . . . . . . . : 2800:810:485:bd::4
+   Direcci n IPv6 . . . . . . . . . . : 2800:810:485:bd:c33c:d2d0:22e6:8b8c
+   Direcci n IPv6 temporal. . . . . . : 2800:810:485:bd:f854:568f:9f0f:4ea9
+   V nculo: direcci n IPv6 local. . . : fe80::4b8a:e648:eb54:6749%3
+   Direcci n IPv4. . . . . . . . . . . . . . : 192.168.0.6
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::a3e:5dff:fe46:2ecc%3
+                                       192.168.0.1
+Matias Fleita 12:30
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec铆fico para la conexi贸n. . :
+   V铆nculo: direcci贸n IPv6 local. . . : fe80::427b:c8dc:823e:982b%11
+   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec铆fico para la conexi贸n. . : home
+   Direcci贸n IPv6 . . . . . . . . . . : 2800:810:429:a522:6bc0:c11:b3e1:5b8a
+   Direcci贸n IPv6 . . . . . . . . . . : 2800:810:429:a522:6db0:f88d:2a66:de64
+   Direcci贸n IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:6464:7c78:73af:8604
+   Direcci贸n IPv6 temporal. . . . . . : 2800:810:429:a522:d9e8:f5dc:67c6:1621
+   Direcci贸n IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:d9e8:f5dc:67c6:1621
+   V铆nculo: direcci贸n IPv6 local. . . : fe80::dbb9:8e1f:4e7e:e20d%2
+   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.0.207
+   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::daa7:56ff:fee3:470c%2
                                        192.168.0.1
