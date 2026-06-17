@@ -27,3 +27,31 @@ git push
 
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+G- ¿Qué debió hacer (todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+git pull
+
+(Si no tenía el repositorio clonado previamente, debía ejecutar:)
+
+git clone URL del repositorio
+
+git branch -a
+
+git switch beta
+
+(o el nombre que tuviera la rama de BETA).
+
+ipconfig >> beta.txt
+
+echo "Nombre Apellido - Hora" >> beta.txt
+
+git add .
+
+Luego registró los cambios con:
+
+git commit -m "ALFA agrega sus datos en beta.txt"
+
+git push origin beta
+
+(o el nombre correspondiente de la rama creada por BETA).
