@@ -6,9 +6,7 @@ Si, beta puede ver todos los cambios realizados
 c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
 git checkout main
 git pull origin main
-git merge aguirre
-git add .
-git commit -m 
+git merge Martinez
 git push origin main
 
 Responde GAMMA:
